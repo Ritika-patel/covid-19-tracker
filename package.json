@@ -1,0 +1,19 @@
+{
+  "name": "covid-tracker",
+  "version": "1.0.0",
+  "description": "tracks updates of covid-19",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ritika-patel/covid-19-tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ritika-patel/covid-19-tracker/issues"
+  },
+  "homepage": "https://github.com/Ritika-patel/covid-19-tracker#readme"
+}
